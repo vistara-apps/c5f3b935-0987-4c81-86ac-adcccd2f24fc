@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AstroFlow",
+    "subtitle": "Built with Zara",
+    "description": "AstroFlow is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app",
+    "splashImageUrl": "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app/image.png",
+    "tagline": "AstroFlow",
+    "screenshotUrls": [
+      "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app/screenshot.png",
+      "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://c5f3b93509874c8186acadcccd2f24fc-rs47-bmx3m8ayn-vistara.vercel.app/api/webhook"
+  }
+}
